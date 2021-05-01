@@ -1,3 +1,3 @@
 # synergy
 
-personal and professional projects in environmental, health, and safety
+personal and professional projects in environmental, health, and safety applications
